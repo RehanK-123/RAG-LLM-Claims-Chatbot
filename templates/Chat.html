@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <h2>Hi {{ user }} 👋</h2>
+    <a href="/logout" style="color:#ff6b6b; text-decoration:none;">Logout</a>
+  </div>
+
+  <div class="chat-box">
+    {% for msg in history %}
+      {% if msg.role == "user" %}
+        <div class="msg-user">{{ msg.text }}</div>
+      {% else %}
+        <div class="msg-bot">{{ msg.text }}</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <form method="POST">
+    <textarea name="message" placeholder="Ask a question..." required></textarea>
+    <button type="submit" class="btn" style="width:100%;">Send</button>
+  </form>
+
+</div>
+
+</body>
+</html>

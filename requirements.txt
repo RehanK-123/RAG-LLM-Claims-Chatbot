@@ -1,0 +1,15 @@
+Faker
+faiss-cpu
+pandas
+numpy
+mysql-connector-python
+scikit-learn
+python-dateutil
+pyspark
+dateparser
+groq
+sqlparse
+torch
+transformers
+bcrypt
+flask

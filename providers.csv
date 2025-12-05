@@ -1,0 +1,181 @@
+provider_id,name,specialty
+D0000,Nicole Bond,Endocrinology
+D0001,Dakota Morris,Oncology
+D0002,Jerry Preston,Cardiology
+D0003,Sean Brown,Cardiology
+D0004,Amanda Martin,Endocrinology
+D0005,Tyler Fernandez,Cardiology
+D0006,Christopher Schmitt,Cardiology
+D0007,Megan Alexander,Cardiology
+D0008,Christopher Simmons,Endocrinology
+D0009,John Warren,Cardiology
+D0010,Mary Anthony,General Medicine
+D0011,Steven Vazquez,Oncology
+D0012,Joshua Wilson,Family Physician
+D0013,Connie Dudley,Cardiology
+D0014,David Herrera,General Medicine
+D0015,Matthew Bernard,Oncology
+D0016,Daniel Munoz,Oncology
+D0017,Jerry Lutz,Family Physician
+D0018,Jason James,General Medicine
+D0019,Lisa Quinn,Endocrinology
+D0020,Joseph Gonzalez,Endocrinology
+D0021,Shane Wade,Oncology
+D0022,Kimberly Alvarez,Endocrinology
+D0023,Rhonda Hester,Family Physician
+D0024,Janice Schwartz,General Medicine
+D0025,Douglas House,Endocrinology
+D0026,Michael Valdez,Family Physician
+D0027,David Smith,Cardiology
+D0028,Abigail Sanders,Family Physician
+D0029,Christopher Hogan,General Medicine
+D0030,Patricia Bean,Pulmonology
+D0031,Shawn Torres,Pulmonology
+D0032,Johnny Holmes,General Medicine
+D0033,Dr. Randy Reyes,Cardiology
+D0034,Megan Zhang,Oncology
+D0035,Rebecca Reed,General Medicine
+D0036,Amy Hubbard,General Medicine
+D0037,Don Ochoa,Pulmonology
+D0038,Claudia Nguyen,Family Physician
+D0039,Michelle Carlson,Cardiology
+D0040,Gabriel Gould,Cardiology
+D0041,Tina Grant,Cardiology
+D0042,Jonathan Nichols,General Medicine
+D0043,Robin Torres,Oncology
+D0044,Nicholas Robinson,Endocrinology
+D0045,Donald Bond,Pulmonology
+D0046,Barbara Ellis,Pulmonology
+D0047,Roger Hendrix,Endocrinology
+D0048,Andrew Morales,Endocrinology
+D0049,Michelle Rodriguez,Family Physician
+D0050,Heather Short,Family Physician
+D0051,Jack Martin,General Medicine
+D0052,Vickie Mcdonald,Endocrinology
+D0053,Justin Gaines,Oncology
+D0054,Cassidy Williams,Oncology
+D0055,Terri Ford,Family Physician
+D0056,Beth Martinez,Family Physician
+D0057,Monica Lester,General Medicine
+D0058,David Holland,Oncology
+D0059,Stephanie Jones,Endocrinology
+D0060,Connor Wood,Cardiology
+D0061,Michelle Terry,Cardiology
+D0062,John Herring,Family Physician
+D0063,William Hernandez DDS,Endocrinology
+D0064,Gabriela Richardson,Family Physician
+D0065,Carol Morris,General Medicine
+D0066,Robert Pittman,General Medicine
+D0067,Donald Adams,Oncology
+D0068,Tiffany Webb,Oncology
+D0069,Stephanie Miller,Cardiology
+D0070,Joshua Payne,General Medicine
+D0071,Martin Chambers,Endocrinology
+D0072,Dr. Sherry Dixon MD,General Medicine
+D0073,Lisa Elliott,Family Physician
+D0074,Dr. Anthony Ramos,Family Physician
+D0075,Thomas Norris,Family Physician
+D0076,Keith Gould,Cardiology
+D0077,Jon Dudley,Pulmonology
+D0078,Kimberly Osborne,General Medicine
+D0079,Jessica Mitchell DDS,Cardiology
+D0080,David Young,Endocrinology
+D0081,Sydney Le,Pulmonology
+D0082,Alexandra Jackson,Endocrinology
+D0083,Thomas Young,Cardiology
+D0084,Carol Allen,Oncology
+D0085,Michele Lee,Family Physician
+D0086,Debra Castillo,Oncology
+D0087,Breanna Lowe,Pulmonology
+D0088,Alyssa Williams,Pulmonology
+D0089,Laura Schneider,Endocrinology
+D0090,Janet Hurley,General Medicine
+D0091,Patricia Lee,Family Physician
+D0092,Marilyn Todd,Family Physician
+D0093,Randall Ramos,Oncology
+D0094,Eileen Barker,Endocrinology
+D0095,Sherry Davidson,General Medicine
+D0096,Joseph Robinson,Oncology
+D0097,Jessica Hunter,General Medicine
+D0098,Suzanne Garcia,Cardiology
+D0099,Gina Gregory,Family Physician
+D0100,Scott Miller,Endocrinology
+D0101,Gregg Graves,General Medicine
+D0102,Christopher Herrera Jr.,Pulmonology
+D0103,Donald Jones,Pulmonology
+D0104,Autumn Moreno,Pulmonology
+D0105,Gabriel Simpson,General Medicine
+D0106,Jennifer Parker,Family Physician
+D0107,Kelly Mitchell,Family Physician
+D0108,Gina Richard,Endocrinology
+D0109,Curtis Carney,Oncology
+D0110,Richard Novak,Endocrinology
+D0111,Bryan Allen,Pulmonology
+D0112,Brooke Scott,Family Physician
+D0113,Kayla Thomas,Cardiology
+D0114,Amy Floyd,Cardiology
+D0115,Michelle Navarro,Endocrinology
+D0116,Nancy Maldonado,Endocrinology
+D0117,Lisa Walsh,Pulmonology
+D0118,Kristen Robertson,Pulmonology
+D0119,Jessica Santos,Endocrinology
+D0120,Tammy Beck,Endocrinology
+D0121,Ronald Hall,Cardiology
+D0122,Nicole Adams,General Medicine
+D0123,Brandon Ramirez,Oncology
+D0124,Jesse Tran,Cardiology
+D0125,Melissa Alexander,Oncology
+D0126,Christine Robbins,Endocrinology
+D0127,Martha White,Family Physician
+D0128,Stephanie Moreno,Pulmonology
+D0129,Amy Porter,General Medicine
+D0130,Tanya Richardson,Pulmonology
+D0131,Anna West,Cardiology
+D0132,Randall Andrews,Oncology
+D0133,Matthew Fowler,Cardiology
+D0134,Evan Johnson,Pulmonology
+D0135,Joseph Miller,Endocrinology
+D0136,Dana Holt,Pulmonology
+D0137,Diane Williams,General Medicine
+D0138,Gina Rodriguez,Pulmonology
+D0139,Meghan Hines,Endocrinology
+D0140,Richard Collins,Oncology
+D0141,Aaron Rose,Oncology
+D0142,Emily Armstrong,General Medicine
+D0143,Kathryn Douglas,Endocrinology
+D0144,Marie White,Cardiology
+D0145,Tiffany Gonzalez,General Medicine
+D0146,Micheal Williams,Pulmonology
+D0147,Thomas Shannon,Family Physician
+D0148,Shawn Rivera,Pulmonology
+D0149,Elizabeth Torres,Oncology
+D0150,Larry Porter,Endocrinology
+D0151,Maria Hoffman,Cardiology
+D0152,Beth Peters,Pulmonology
+D0153,Joseph Gibbs,Pulmonology
+D0154,Traci Kelley,General Medicine
+D0155,Vincent Nelson,Endocrinology
+D0156,Lee Baker,Cardiology
+D0157,Andrew Park,Pulmonology
+D0158,Rebecca Lane,Cardiology
+D0159,Victoria Costa,Endocrinology
+D0160,Michael Davis,Family Physician
+D0161,Anthony Murray Jr.,Oncology
+D0162,Rachel Terry,Endocrinology
+D0163,Heather Peterson,Cardiology
+D0164,Tanya Rice,Cardiology
+D0165,Christian Gomez,Endocrinology
+D0166,Eric Montes,General Medicine
+D0167,Jessica Clark,Oncology
+D0168,Rhonda Jones,Family Physician
+D0169,James Long,General Medicine
+D0170,James Allen,Endocrinology
+D0171,Matthew Woods,Family Physician
+D0172,Abigail Bennett,Oncology
+D0173,Michael Oliver,Cardiology
+D0174,Jared Rodriguez Jr.,Oncology
+D0175,Diana Murphy,Pulmonology
+D0176,Brendan Webb,Pulmonology
+D0177,Abigail Mahoney,Endocrinology
+D0178,Jacob Nelson,Pulmonology
+D0179,Christopher Jones,Pulmonology
